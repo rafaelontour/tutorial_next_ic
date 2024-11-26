@@ -21,7 +21,7 @@ export default function Home() {
         <h1 className="text-3xl">Aplicação básica Next para tutorial web</h1>
         <p>Clique nos items do menu para ver os exemplos</p>
         <p>Esta é uma aplicação simples onde temos somente as requisições sendo feitas para o backend e exibindo os resultados na tela. O principal é que você olhe como está a estrutura de diretórios e arquivos.</p>
-        <p>Todas os arquivos que tem o código responsável pelas requisições estão na pasta <code className="bg-white px-2 py-1 rounded-md">services</code> e organizados de acordo com suas responsabilidades. Por exemplo, as chamadas para os pesquisadores está no arquivo <code className="bg-white px-2 py-1 rounded-md">pesquisadores.ts</code> e as chamadas para os artigos no arquivo <code className="bg-white px-2 py-1 rounded-md">artigos.ts</code>.</p>
+        <p>Todos os arquivos que tem o código responsável pelas requisições estão na pasta <code className="bg-white px-2 py-1 rounded-md">services</code> e organizados de acordo com suas responsabilidades. Por exemplo, as chamadas para os pesquisadores está no arquivo <code className="bg-white px-2 py-1 rounded-md">pesquisadores.ts</code> e as chamadas para os artigos no arquivo <code className="bg-white px-2 py-1 rounded-md">artigos.ts</code>.</p>
       </div>
 
       <div className="flex flex-col gap-3 mt-5 bg-green-400 rounded-md p-3">
